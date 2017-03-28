@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/google/sprout4" name="LineageOS/android_device_google_sprout4" remote="github" revision="cm-13.0" />
+  <project path="vendor/google" name="themuppets/proprietary_vendor_google" remote="github" revision="cm-13.0" />
+  <project path="kernel/mediatek/sprout" name="LineageOS/android_kernel_mediatek_sprout" remote="github" revision="cm-13.0" />
+  <project path="device/google/sprout-common" name="LineageOS/android_device_google_sprout-common" remote="github" revision="cm-13.0" />
+</manifest>
