@@ -6,6 +6,6 @@ go to the repo initalised source folder then<br>
  <li> cd .repo</li>
  <li> mkdir local_manifests </li>
  <li> cd local_manifests </li>
- <li> wget https://raw.githubusercontent.com/samgrande/local_manifest_sprout/master/local_manifest.xml</li>
+ <li> wget https://raw.githubusercontent.com/samgrande/local_manifest_sprout/master/sprout4.xml </li>
  <li> cd ../../</li>
  <li> repo sync -j16 -f</li>
