@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/google/sprout4" name="samgrande/android_device_google_sprout4" remote="github" revision="cm-14.1" />
-  <project path="vendor/google" name="samgrande/proprietary_vendor_google" remote="github" revision="cm-14.1" />
-  <project path="kernel/mediatek/sprout" name="samgrande/android_kernel_mediatek_sprout" remote="github" revision="cm-14.1" />
-  <project path="device/google/sprout-common" name="samgrande/android_device_google_sprout-common" remote="github" revision="cm-14.1" />
-  <project path="device/google/sprout4/patches" name="samgrande/mtk_nougat_patches" remote="github" revision="master" />
-</manifest>
+  <project path="device/google/sprout4" name="nfsbfiajSN/sp4" remote="github" revision="master" />
+  <project path="vendor/google" name="ujwalp15/proprietary_vendor_google" remote="github" revision="cm-14.1" />
+  <project path="kernel/mediatek/sprout" name="ujwalp15/android_kernel_mediatek_sprout" remote="github" revision="cm-14.1" />
+  <project path="device/google/sprout-common" name="nfsbfiajSN/sp-common" remote="github" revision="LineageOS-14.1" />
+  </manifest>
